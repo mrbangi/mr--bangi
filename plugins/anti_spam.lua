@@ -1,3 +1,5 @@
+
+--An empty table for solving multiple kicking problem(thanks to @topkecleon )
 kicktable = {}
 
 do
