@@ -1,5 +1,4 @@
 do
-
 -- Check Member
 local function check_member_autorealm(cb_extra, success, result)
   local receiver = cb_extra.receiver
